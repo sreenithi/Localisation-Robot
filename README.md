@@ -8,6 +8,8 @@ The ROS project consists of 2 packages, **my_robot** and **localise_robot**. The
 * amcl
 * move_base
 
-  
+## Demo
+![Localisation Demo](Localisation%20Demo.gif)
+
 ## ROS and Ubuntu version used
 ROS Kinetic in Ubuntu 16.04
